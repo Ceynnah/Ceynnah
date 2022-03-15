@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Ceynnah
-- 👀 I’m interested in Data Analyse
-- 🌱 I’m currently learning Python
+# Hi Everyone !
+
+- I’m Alexandre Sena
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently coding in Python & SQL
+
+
 
 <!---
 Ceynnah/Ceynnah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
